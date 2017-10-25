@@ -1,2 +1,6 @@
 # Proftaak-11
-Proftaak 11 van groep 1
+
+Hi Humans,
+
+Dedamani here, we like to script in C# and HTML/CSS. This for our groupsproject.
+
